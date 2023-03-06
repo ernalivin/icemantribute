@@ -1,0 +1,65 @@
+#title {
+  width: 100%;
+  border: 3px solid black;
+  background-color: lightblue;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+.caps {
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 0.5em;
+}
+
+#image {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+  border: 1px solid black;
+}
+
+#img-caption > p {
+  text-align: center;
+  font-size: 0.5em;
+}
+
+h3 {
+  text-align: center
+}
+
+#list {
+  width: 60%;
+  margin: 20px auto;
+  line-height: 1.5;
+  font-size: 1.3em;
+}
+
+li {
+  margin: 16px 0;
+}
+
+span {
+  font-weight: 900;
+}
+
+#quote {
+  width: 40%;
+  margin: 10px auto 0;
+  line-height: 2;
+  font-style: italic;
+  font-size: 1.5em;
+}
+
+#link {
+  width: 100%;
+  margin: 10px auto;
+  text-align: center;
+  font-size: 2em;
+  font-weight: 900;
+}
